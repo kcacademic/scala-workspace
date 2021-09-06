@@ -1,1 +1,6 @@
 Cats [https://typelevel.org/cats/]
+Akka [https://akka.io/docs/]
+Akka Actors [https://doc.akka.io/docs/akka/current/typed/index.html]
+Akka Streams [https://doc.akka.io/docs/akka/current/stream/index.html]
+Alpakka [https://doc.akka.io/docs/alpakka/current/overview.html]
+Alpakka Kafka [https://doc.akka.io/docs/alpakka-kafka/current/]
